@@ -6,7 +6,7 @@
 - Styled-Components
 
 ## Link Projeto
-https://themeswitcher-seven.vercel.app/
+https://themesw.vercel.app/
 
 o Projeto constitui na troca de temas.
 - salvamento em local storage.
