@@ -1,17 +1,17 @@
 # Theme Switcher
 
+o Projeto constitui na troca de temas.
+
+- Hook para persistencia do state em local storage.
+- Context Api
+
 ### Tecnologias
 - ReactJs
 - TypeScript
 - Styled-Components
 
-## Link Projeto
+## Confira o projeto
 https://themesw.vercel.app/
-
-o Projeto constitui na troca de temas.
-- salvamento em local storage.
-- Context Api
-- Hooks
 
 ## Instalar dependências
 - npm install
