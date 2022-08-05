@@ -9,7 +9,7 @@ function usePersisteStateTheme<T>(key: string, initialState: T): Response<T> {
     if (storageValue) {
       return JSON.parse(storageValue);
     } else {
-      return storageValue;
+      return initialState;
     }
   });
 
